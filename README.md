@@ -4,8 +4,6 @@ In this basic Excel refresher, a dataset was supplied with Kickstarter funding d
 ### Observations
 <img src="Images/pivot.PNG" alt="pivot" width="700"/>
 
----
-
 <img src="Images/pivot2.PNG" alt="pivot2" width="700"/>
 
 1) Most Kickstarter campaigns originate in the US and have a higher rate of success. Non-US campaigns are about 50-50 on whether they succeed or not and, aside from Great Britain, are unsuccessful more often than not. 
@@ -14,7 +12,7 @@ In this basic Excel refresher, a dataset was supplied with Kickstarter funding d
 
 3) December is the worst month to begin a campaign, with campaigns seeing almost 10% less success in December than on average, 5% lower than any other month. Campaigns do noticeably better in February through May.
 
-###Limitations
+### Limitations
 
 Kickstart campaigns often provide incentives for backing certain amounts. It could be that campaigns without incentives, less incentives, or expensive tiers fail more often. Or possibly that campaigns with lots of incentives get cancelled as they promise too much for the money they raise. 
 
